@@ -1,2 +1,2 @@
-# SimpleLinkedList
-Simple LinkedList java
+# SimpleList
+Simple LinkedList and ArrayList java
